@@ -1,1 +1,1 @@
-# ReverseProxy
+This is the basic code for reverse proxy. It checks for the black listed Url and any request sent to black listed url is not processed. Also certain parameters are passed to curl_setopt() for verifying secure connection. 
